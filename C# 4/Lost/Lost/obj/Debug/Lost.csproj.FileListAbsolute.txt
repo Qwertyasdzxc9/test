@@ -1,0 +1,5 @@
+H:\C# 4\Lost\Lost\obj\Debug\Lost.csproj.AssemblyReference.cache
+H:\C# 4\Lost\Lost\obj\Debug\Lost.csproj.SuggestedBindingRedirects.cache
+H:\C# 4\Lost\Lost\obj\Debug\MainWindow.g.cs
+H:\C# 4\Lost\Lost\obj\Debug\Lost_MarkupCompile.cache
+H:\C# 4\Lost\Lost\obj\Debug\Lost_MarkupCompile.lref
